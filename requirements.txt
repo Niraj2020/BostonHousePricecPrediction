@@ -5,6 +5,6 @@ pandas
 numpy
 matplotlib
 gunicorn
-python==3.7
+
 
 
